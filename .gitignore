@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+checkpoints/
+cache/
+*.mp4
+!assets/*.mp4
+firebase-debug.log
